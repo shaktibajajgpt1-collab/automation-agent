@@ -1,0 +1,20 @@
+{
+  "name": "mf-sarthi",
+  "private": true,
+  "version": "1.0.0",
+  "description": "MF Sarthi — a mobile-first mutual fund decision helper: goal-based planning, SIP sizing and live fund data for Indian mutual funds.",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "vite": "^5.4.11"
+  }
+}
